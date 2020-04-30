@@ -3,6 +3,7 @@ public class hello {
         System.out.println("hello");
         System.out.println("zjk000");
         System.out.println("111");
+        System.out.printlin("222");
 
     }
 }
